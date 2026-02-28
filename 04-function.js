@@ -1,3 +1,5 @@
+//importing values and using it
+
 const {firstName ,lastName} = require("./03-name")
 
   // console.log(data)

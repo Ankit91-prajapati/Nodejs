@@ -1,6 +1,6 @@
 let os = require('os')
 
-console.log(os.uptime()) // it show system last reboot means shutdown or restart
+console.log(os.uptime()) // it show system last reboot means shutdown or restart your system
 
 console.log(os.machine())
 

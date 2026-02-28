@@ -8,4 +8,4 @@ function getinfo(num){
 }
 
 let num = 67
-getinfo(num)
+getinfo(num) //call

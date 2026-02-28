@@ -1,4 +1,4 @@
-// import printInfo from "./04-function"; //if we are using Es6 module
+// import printInfo from "./04-function"; //if we are using Es6 module which are latest
 
 const printInfo = require("./04-function.js")
 const data = require("./06-alternative-exports.js")

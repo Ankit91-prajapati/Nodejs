@@ -1,3 +1,5 @@
+//read file syncronyse
+
 const {readFileSync ,writeFileSync} = require("fs")
 // console.log(fs)
 console.log("start");
