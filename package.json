@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "learn-node-express",
   "license": "ISC",
-  "author": "Ankit",
+  "author": "Ankit prajapati",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {

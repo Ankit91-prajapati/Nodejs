@@ -1,4 +1,4 @@
-// GLOBALS  - NO WINDOW !!!!
+// GLOBALS  - NO WINDOW !!!
 
 // __dirname  - path to current directory
 // __filename - file name
