@@ -6,3 +6,7 @@ console.log(text)
 
 writeFileSync('./content/second.txt', `this is second time ${text}`)
 console.log("end")
+
+ writeFileSync("./content/bigfile.txt","Ankit Prajapati")
+
+
