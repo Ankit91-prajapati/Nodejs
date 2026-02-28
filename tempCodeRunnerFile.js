@@ -1,1 +1,0 @@
-import { firstName , lastName } from "./03-name";
